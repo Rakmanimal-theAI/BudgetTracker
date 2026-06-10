@@ -1,0 +1,14 @@
+/Users/nicolasmir/projects/BudgetTracker/obj/Debug/net10.0/BudgetTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolasmir/projects/BudgetTracker/obj/Debug/net10.0/BudgetTracker.AssemblyInfoInputs.cache
+/Users/nicolasmir/projects/BudgetTracker/obj/Debug/net10.0/BudgetTracker.AssemblyInfo.cs
+/Users/nicolasmir/projects/BudgetTracker/obj/Debug/net10.0/BudgetTracker.csproj.CoreCompileInputs.cache
+/Users/nicolasmir/projects/BudgetTracker/bin/Debug/net10.0/BudgetTracker
+/Users/nicolasmir/projects/BudgetTracker/bin/Debug/net10.0/BudgetTracker.deps.json
+/Users/nicolasmir/projects/BudgetTracker/bin/Debug/net10.0/BudgetTracker.runtimeconfig.json
+/Users/nicolasmir/projects/BudgetTracker/bin/Debug/net10.0/BudgetTracker.dll
+/Users/nicolasmir/projects/BudgetTracker/bin/Debug/net10.0/BudgetTracker.pdb
+/Users/nicolasmir/projects/BudgetTracker/obj/Debug/net10.0/BudgetTracker.dll
+/Users/nicolasmir/projects/BudgetTracker/obj/Debug/net10.0/refint/BudgetTracker.dll
+/Users/nicolasmir/projects/BudgetTracker/obj/Debug/net10.0/BudgetTracker.pdb
+/Users/nicolasmir/projects/BudgetTracker/obj/Debug/net10.0/BudgetTracker.genruntimeconfig.cache
+/Users/nicolasmir/projects/BudgetTracker/obj/Debug/net10.0/ref/BudgetTracker.dll
